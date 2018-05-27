@@ -24,3 +24,5 @@ We are highlighting the Neo-Python since most part of the developers use it in t
 A symbolic reward of 721 ONT will be given to the most interesting reported case.
 
 On 10:00 (10am) CST time of May, 30th, the challenge will be finished and NeoResearch will explain about, at least, one case, at [Mission Impossible IV](https://medium.com/link-to-be-announced).
+
+The report should be sent an issue, here in this project.
