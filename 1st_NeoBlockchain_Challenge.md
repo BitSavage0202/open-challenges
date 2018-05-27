@@ -26,3 +26,9 @@ A symbolic reward of 721 ONT will be given to the most interesting reported case
 On 10:00 (10am) CST time of May, 30th, the challenge will be finished and NeoResearch will explain about, at least, one case, at [Mission Impossible IV](https://medium.com/link-to-be-announced).
 
 The report should be sent an issue, here in this project.
+
+Previous Mission Impossible:
+
+* [Mission Impossible I - NEL](https://medium.com/neweconolab/neo-smart-contract-development-1-mission-impossible-3d25d3ca3bd4)
+* [Mission Impossible II -NEL](https://medium.com/neweconolab/neo-smart-contract-development-ii-an-additional-exploration-of-mission-impossible-119b49666b1d)
+* [Mission Impossible III - NeoResearch](https://medium.com/@igormcoelho/mission-impossible-iii-distributed-payments-on-neo-platform-58398b0d77d3)
