@@ -18,8 +18,10 @@ Since some months ago, active members of our team reported the possibility of ac
 
 Our whole here is to reach agreements and motivate all projects to stay aligned with Neo's original design.
 
-In this sense, we are instigating and motiving developers to report a case (previous incidents can also be reported and could be possibly considered) that provides different behaviors on the Neo-Python view of the Blockchain compared to the Neo-Cli.
-We are highlighting the Neo-Python since most part of the developers use it in the Private Net when developing their applications.
+In this sense, we are instigating and motiving developers to report a case (previous incidents can also be reported and could be possibly considered) that provides different behaviors on the [Neo-Python](https://github.com/CityOfZion/neo-python/) view of the Blockchain compared to the [Neo-Cli](https://github.com/neo-project/neo-cli)+[Neo Library](https://github.com/neo-project/neo).
+We are highlighting the Neo-Python since most part of the developers are using it in the Private Net when developing their applications.
+In addition, that is why NeoResearch has been giving so much attention to the [NeoCompiler Eco](https://github.com/NeoResearch/neocompiler-eco), which is now comprising several tools that allows the community to explore these minor adjustments and agreements.
+
 
 A symbolic reward of 721 ONT will be given to the most interesting reported case.
 
