@@ -4,19 +4,25 @@
       width="125px;">
 </p>
 
-<h1 align="center">The 1st NeoCompiler Eco Competition - Moving towards statistical comprehension</h1>
+<h1 align="center">The 1st NeoResearch Competition - Moving towards statistical comprehension</h1>
 
-## What is it
+## Our mission
 
-Counting with the support and assistance of NeoResearch team, we announce the first statistical and optimization competition, in which, at least, 600 NEO will be awarded.
+[NeoResearch](http://neoresearch.io) is an independent community, which receives support, nowadays, exclusively, from the Neo Foundation.
+
+The main goal is to assist the Neo community with the development of groundbreaking research for the Neo Blockchain Ecosystem, testing, analyzing and investigating different components and tools developed and in use by the community.
+
+## Brief description
 
 The focus of this competition will be limited to awarding concise statical reports, focused on Neo blockchain bottlenecks and interesting time aspects.
 However, participants are encouraged to go further. We do not discard the possibility of increasing the reward for outstanding findings.
 
-NeoOptTests team will do their best to ensure that a wide public can participate in the competition.
+NeoResearch team will do their best to ensure that a wide public can participate in the competition.
 A didactic and, hopefully, simple guidelines will be provided in order to motivate everyone to try out their scientific nature.
 
-## Competition infrasctruture
+This statistical and optimization competition is going to award, at least, 600 NEO.
+
+## Competition infrastructure
 
 Basically, the competition will run in two different rounds:
 
